@@ -9,4 +9,5 @@ Video demonstration available [here](https://youtu.be/_ShpK5zyPHQ).
 
 ## Usage
 After all of the requirements have been met, run pid_hover.py with arguments target_altitude(meters) hover_time(seconds)
+
 For example: `python pid_hover.py 0.4 15` will make the quadcopter hover for 15 seconds at an altitude of 0.4 meters.
