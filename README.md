@@ -1,7 +1,7 @@
 # crazyflie-hover
 Hovering feature for The Crazyflie 2.1 based on a PID controller. 
 Video demonstration available [here](https://youtu.be/_ShpK5zyPHQ).
-Bachelor's Thesis that discusses the implementation available [here](https://trepo.tuni.fi/handle/10024/162266)
+Bachelor's thesis that discusses the implementation available [here](https://trepo.tuni.fi/handle/10024/162266)
 
 ## Requirements
 - Crazyflie 2.x (Crazyflie 1.0 aka Crazyflie Nano not supported)
